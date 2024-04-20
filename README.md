@@ -21,3 +21,6 @@ This dataset presents a comprehensive overview of the Sri Lankan economy and ric
 
 **Use Case:**
 Researchers, economists, and policymakers can utilize this dataset to analyze the trends and relationships between economic indicators and rice production in Sri Lanka. It can be used to study the impact of various factors on the economy and agriculture sector, aiding in informed decision-making and policy formulation.
+
+**Data Source:**
+The data for this dataset has been sourced from reputable sources including the International Monetary Fund (IMF) database, the World Bank's data repository, and reports from the Central Bank of Sri Lanka. These sources are known for their reliability and comprehensive coverage of economic indicators, ensuring the quality and accuracy of the dataset.
